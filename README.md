@@ -1,3 +1,4 @@
+### Tomas - Master's Student in Algorithms
 Hello, my name is Tomas. I am a Computer Engineering student, currently in my second year of the Master’s program in Algorithms, Languages, and Logic at Chalmers. I have a strong interest in mathematics, algorithms, and AI.
 
 <!--
