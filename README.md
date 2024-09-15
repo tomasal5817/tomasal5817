@@ -1,5 +1,5 @@
 ### About Me
-Hello, my name is Tomas. I am a Computer Engineering student, currently in my second year of the Master’s program in Algorithms, Languages, and Logic at Chalmers. I have a strong interest in mathematics, algorithms, and AI.
+Hello, my name is Tomas. I am a Computer Engineering student, currently in my second year of the Master’s program in Algorithms, Languages and Logic at Chalmers. I have a strong interest in mathematics, algorithms and AI.
 
 <!--
 **tomasal5817/tomasal5817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
